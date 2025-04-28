@@ -17,19 +17,19 @@
 },
 {
     "id": 1,
-    "name": "Jairus , Juat", 
-    "email": "Jairus@grc.com",
+    "name": "Hazel  , Bauso", 
+    "email": "hazel.bauso.bsit@gmail.com",
     "phone": "+1-2345-634-5342",
     "address": {
-        "street": "254, st. Bulacan",
-        "city": "Bulacan",
+        "street": "Gabriel, st.",
+        "city": "Navotas city",
         "state": "Manila",
-        "zip": "2064"
+        "zip": "1409"
     },
     "company": {
-        "name": "V X I",
-        "position": "Civil Engineer",
-        "department": "Development"
+        "name": "UniverStar",
+        "position": "Branch Manager",
+        "department": "Manager"
     }
 },
 
