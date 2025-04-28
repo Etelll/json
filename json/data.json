@@ -1,0 +1,54 @@
+[{
+    "id": 1,
+    "name": "John Doe", 
+    "email": "sample@grc.com",
+    "phone": "+1-202-555-0173",
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+    },
+    "company": {
+        "name": "Tech Solutions",
+        "position": "Software Engineer",
+        "department": "Development"
+    }
+},
+{
+    "id": 1,
+    "name": "Jairus , Juat", 
+    "email": "Jairus@grc.com",
+    "phone": "+1-2345-634-5342",
+    "address": {
+        "street": "254, st. Bulacan",
+        "city": "Bulacan",
+        "state": "Manila",
+        "zip": "2064"
+    },
+    "company": {
+        "name": "V X I",
+        "position": "Civil Engineer",
+        "department": "Development"
+    }
+},
+
+{
+    "id": 1,
+    "name": "Manual Serve", 
+    "email": "Ms@grc.com",
+    "phone": "+1-365-897-0173",
+    "address": {
+        "street": "66 Main St",
+        "city": "Valenzuela",
+        "state": "Manila",
+        "zip": "2864"
+    },
+    "company": {
+        "name": "IT Solutions",
+        "position": "Stuff Engineer",
+        "department": "Development"
+    }
+}
+
+]
